@@ -1,5 +1,7 @@
 <h2 align="center">Alura Geek</h2>
 
+O Alura Geek Challenge é um e-commerce simples voltado para produtos geek. Ele permite a listagem, adição, edição e exclusão de produtos, tornando-se uma excelente aplicação para praticar HTML, CSS e JavaScript puro.
+
 ![AluraGeek](/alura-geek.jpg)
 
 **Material Utilizado**
